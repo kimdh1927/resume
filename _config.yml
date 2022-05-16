@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "김도현"
+resume_name:                    "Kim Do Hyeon"
 resume_title:                   "세명대 ICT학부생"
 
 # used for the contact button in _layouts/resume.html
