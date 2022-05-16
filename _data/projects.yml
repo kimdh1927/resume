@@ -2,15 +2,8 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: SMU 코로나 라이브
+  role: 자료조사 & App Programming
+  duration: 2022 &mdash; 현재 개발중
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: 학교랑 제천 내 코로나 확진자 수와 확진 시 필요한 정보 (유고결석 서류, 약 받는 방법 등)을 제공하는 어플리케이션
