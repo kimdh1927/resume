@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "flase"
+resume_avatar:                  "false"
 resume_name:                    "Kim Do Hyeon"
 resume_title:                   "세명대 ICT학부생"
 
